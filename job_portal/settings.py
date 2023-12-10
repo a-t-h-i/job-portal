@@ -25,7 +25,7 @@ SECRET_KEY = "ih)tbnc6#9e+$r*=fu&urnnv7m=b(lzl4%#b+0v#vg(517aqec"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["job-portal-1xeh.vercel.app"]
 
 
 # Application definition
