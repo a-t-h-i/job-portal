@@ -86,7 +86,7 @@ DATABASES = {
         "NAME": "railway",
         "URL": "postgresql://postgres:5aA*C32d*FDGAF5B3DC4G--E4b4d*EBD@viaduct.proxy.rlwy.net:43265/railway",
         "USER": "postgres",
-        "PASSWORD": os.environ.get("DB_PASSWORD"),
+        "PASSWORD": "5aA*C32d*FDGAF5B3DC4G--E4b4d*EBD",
         "HOST": "viaduct.proxy.rlwy.net",
         "PORT": "43265",
     }

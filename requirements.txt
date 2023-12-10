@@ -4,6 +4,3 @@ Pillow==10.1.0
 psycopg2==2.9.9
 pytz==2023.3.post1
 sqlparse==0.4.4
-
-
-# DB password: 5aA*C32d*FDGAF5B3DC4G--E4b4d*EBD
