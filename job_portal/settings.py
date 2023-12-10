@@ -86,8 +86,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'job_portal_django',
-        'USER': 'postgres',
-        'PASSWORD': 'karishma123',
+        'USER': 'athi',
+        'PASSWORD': os.environ.get('DB_PASSWORD'),
         'HOST': 'localhost',
     }
 }
